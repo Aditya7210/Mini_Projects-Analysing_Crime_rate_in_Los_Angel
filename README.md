@@ -33,3 +33,6 @@ It is a modified version of the original data, which is publicly available from 
 1. Which hour has the highest frequency of crimes?
 2. Which area has the largest frequency of night crimes (crimes committed between 10pm and 3:59am)?
 3. Identify the number of crimes committed against victims of different age groups.
+
+
+**Credit** --- I thank *DataCamp* to provide me with the necessary resources to complete this project
