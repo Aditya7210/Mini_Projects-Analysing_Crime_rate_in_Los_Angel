@@ -28,6 +28,6 @@ It is a modified version of the original data, which is publicly available from 
 
 
 **THE FOLLOWING QUESTIONS ARE ANSWERED IN THIS PROJECT**
-1. Which hour has the highest frequency of crimes? Store as an integer variable called peak_crime_hour.
+1. Which hour has the highest frequency of crimes?
 2. Which area has the largest frequency of night crimes (crimes committed between 10pm and 3:59am)? Save as a string variable called peak_night_crime_location.
 Identify the number of crimes committed against victims of different age groups.
